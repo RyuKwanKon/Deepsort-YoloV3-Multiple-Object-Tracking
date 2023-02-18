@@ -19,7 +19,7 @@
 3. detection영상 ./data/video에 다운로드
 4. tracker 실행
 
-<img src="https://user-images.githubusercontent.com/97783148/219853615-50be10cb-194e-4b1f-88e1-e31ab23e04f4.gif"  width="100%"/>
+<img src="https://user-images.githubusercontent.com/97783148/219853615-50be10cb-194e-4b1f-88e1-e31ab23e04f4.gif"  width="70%"/>
 
 ### references
 - Yolov3 weights: https://www.youtube.com/redirectevent=video_description&redir_token=QUFFLUhqbmFIbFZYSjZBRzgzRGNGZ0ZIaHdfMUlzcng2UXxBQ3Jtc0tta3hoclRtb0prY2VMVEY4MkhwazVKU0JieXZlR1MxeVZ1a25sOGxGcHNrTmVGb3U3YzRLTkk3cWo3d0prUDkzU0NuZUZ6dDNCZ1FOQTBwaTJNaTZNeHdnYmkyY1FXRGdhVzRtTXZxU1pjOHVmdEdyTQ&q=https%3A%2F%2Fpjreddie.com%2Fmedia%2Ffiles%2Fyolov3.weights&v=zi-62z-3c4U
